@@ -1,4 +1,10 @@
+body{
+    background-image: url("images/nebula.jpg");
+    background-repeat: none;
+    background-size: cover;
+}
 h1{ 
     text-align:left; 
     font-style: Helvetica;
-    font-weight: none;
+    font-weight: normal;
+}
