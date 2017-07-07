@@ -19,3 +19,6 @@ h1{
     background: gold;
     text-align: center;
 }
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a{   
+    background: gold;
+}
