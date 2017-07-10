@@ -4,11 +4,6 @@ body{
     background-size: cover;
     color: whitesmoke
 }
-h1{ 
-    text-align:left; 
-    font-style: Helvetica;
-    font-weight: normal;
-}
 .navbar-right img{
     height:32px;
     -ms-transform: rotate(-90deg); /* IE 9 */
@@ -21,4 +16,15 @@ h1{
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a{   
     background: gold;
+}
+h1 {
+    margin: .67em 0;
+    font-size: 2em !important;
+    text-align: center;
+    text-decoration: line-through coral;
+}
+h2{ 
+    text-decoration: line-through turquoise;
+    text-shadow:2px 2px black !important;
+    text-align: left
 }
