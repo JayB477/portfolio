@@ -1,8 +1,6 @@
 h1 {
   font-size: 72px;
   background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  background-clip: 
   -webkit-text-stroke: 1px black;
    color: white;
    text-shadow:
@@ -12,5 +10,5 @@ h1 {
       -1px 1px 0 #000,
        1px 1px 0 #000;
 }
-li{ font-size: 20px;
-    font-family: }
+li{ font-size: 20px;\
+}
