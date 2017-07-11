@@ -21,10 +21,29 @@ h1 {
     margin: .67em 0;
     font-size: 2em !important;
     text-align: center;
-    text-decoration: line-through coral;
+    text-decoration-line: underline overline;
+     -moz-text-decoration-color:rgb(0,0,255);
+    text-decoration-color: rgb(0,0,255)
+    
 }
 h2{ 
-    text-decoration: line-through turquoise;
+    text-decoration: underline turquoise;
     text-shadow:2px 2px black !important;
-    text-align: left
+    text-align: left;
+    text-decoration-style: wavy;
+    }
+p{ 
+    font-size: 28px;
+}
+.carousel {
+    width:300px;
+    display: block;
+    margin: 0 auto;
+}
+.carousel-inner {
+    height: 300px;
+}
+
+.carousel-inner img {
+    width: 100%;
 }
