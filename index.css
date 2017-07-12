@@ -21,9 +21,7 @@ h1 {
     margin: .67em 0;
     font-size: 2em !important;
     text-align: center;
-    text-decoration-line: underline overline;
-     -moz-text-decoration-color:black;
-    text-decoration-color: black;
+    text-decoration-line: underline;
     text-decoration-style: wavy
     
 }
