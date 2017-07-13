@@ -23,7 +23,7 @@ h1 {
     font-size: 38px;
     -webkit-text-stroke: 1px white;
     text-decoration-style: wavy;
-    text-decoration-line: underline;
+    text-decoration-line: underline ;
     color:crimson;
     text-shadow:
         3px 3px 0 #000,
@@ -33,18 +33,23 @@ h1 {
         1px 1px 0 #000;
 }
 h2{ 
-    text-decoration: underline turquoise;
+    text-decoration: underline white;
     text-shadow:2px 2px black !important;
     text-align: left;
     text-decoration-style: wavy;
-    }
-p{ 
+    background-color:peru;
+    display: inline-block;
+    color:crimson;
+    -webkit-text-stroke: 1px black;
+}    
+span{ 
     font-size: 28px;
+    background-color: black; 
+    display: inline-block;
 }
 .carousel {
     width:300px;
     display: block;
-    margin: 0 auto;
 }
 .carousel-inner {
     height: 300px;
