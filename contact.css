@@ -1,14 +1,18 @@
 h1 {
-  font-size: 72px;
-  -webkit-text-stroke: 1px white;
-   color:crimson;
-   text-shadow:
-       3px 3px 0 #000,
-     -1px -1px 0 #000,  
-      1px -1px 0 #000,
-      -1px 1px 0 #000,
-       1px 1px 0 #000;
-}
+   background-color:gray;
+    display: inline-block;
+    font-size: 38px;
+    -webkit-text-stroke: 1px white;
+    text-decoration-style: wavy;
+    text-decoration-line: underline;
+    color:crimson;
+    text-shadow:
+        3px 3px 0 #000,
+        -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}  
 li{ font-size: 20px;
 }
 .help-block{ 
@@ -43,7 +47,7 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-    background-color: #45a049;
+    background-color:orange;
 }
 
 /* Add a background color and some padding around the form */
