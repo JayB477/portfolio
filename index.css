@@ -38,14 +38,12 @@ h2{
     text-align: left;
     text-decoration-style: wavy;
     background-color:peru;
-    display: inline-block;
     color:crimson;
     -webkit-text-stroke: 1px black;
 }    
-span{ 
+p{ 
     font-size: 28px;
     background-color: black; 
-    display: inline-block;
 }
 .carousel {
     width:300px;
