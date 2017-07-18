@@ -67,3 +67,13 @@ span{
     margin: 0 auto;
     max-width: 600px;
 }
+
+.avatar {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    background-image: url('images/me.jpg');
+    background-size: cover;
+    background-position: center;
+    transform: rotate(90 deg);
+}
