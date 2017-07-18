@@ -75,5 +75,5 @@ span{
     background-image: url('images/me.jpg');
     background-size: cover;
     background-position: center;
-    transform: rotate(90 deg);
+    -webkit-transform:rotate( -90deg);
 }
