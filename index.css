@@ -20,8 +20,9 @@ body{
 h1 {
     font-size: 38px;
     -webkit-text-stroke: 1px white;
-    text-decoration-style: wavy;
     text-decoration-line: underline ;
+    text-decoration-style: wavy;
+    text-align: center;
     color:crimson;
     text-shadow:
         3px 3px 0 #000,
@@ -60,4 +61,9 @@ span{
 .navbar-brand>img{
     height:33px;
     margin-top: -5px;
+}
+.content {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 600px;
 }
