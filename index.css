@@ -47,7 +47,21 @@ span{
     font-size: 28px;
     background-color: black;
 }
-.carousel {
+.navbar-right span{
+    background-color: transparent;
+    height: 10px;
+}
+.glyphicon {
+    position: relative;
+    top: 21px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+.carousel{
     width:300px;
     display: block;
 }
