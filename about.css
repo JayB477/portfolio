@@ -12,4 +12,9 @@ h1 {
         1px 1px 0 #000;
 }
 
+p{
+    background-position: center;
+    background-size: cover;
+}
+
    

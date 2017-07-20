@@ -11,7 +11,8 @@ h1 {
         -1px 1px 0 #000,
         1px 1px 0 #000;
 }  
-li{ font-size: 20px;
+li{ 
+    font-size: 20px;
 }
 .help-block{ 
    color: white;
@@ -51,7 +52,7 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
     border-radius: 195px;
-    background-color:crimson;
+    background-color:firebrick;
     padding: 125px;
     }
  input{
@@ -59,4 +60,8 @@ input[type=submit]:hover {
 }
 option{
     color:black;
+}
+span{
+    font-size: 28px;
+    background-color: none;
 }
